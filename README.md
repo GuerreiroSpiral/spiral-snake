@@ -15,5 +15,5 @@ Press Backspace to start the game and the directional keys to move.
 # Screenshot
 
 <p align="center">
-      <img width= src="https://i.imgur.com/YBh0YMS.png"><br></br>
+      <img src="https://i.imgur.com/YBh0YMS.png"><br></br>
 </p>
